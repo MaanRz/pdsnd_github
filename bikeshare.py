@@ -4,7 +4,7 @@ import numpy as np
 Cities = ['chicago' , 'new york city', 'washington']
 Months = ['january' , 'february', 'march' , 'april' , 'may' , 'june' , "all" ]
 Days = ['monday' , 'tuesday', 'wednesday' , 'thursday' , 'friday' , 'saturday' , 'sunday', "all"]
-
+print("and THIS change for Refactoring brach , HELLO")
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
