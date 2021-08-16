@@ -16,11 +16,17 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### chicago.csv , new_york_city.csv , washington.csv
 ||||||| a7178f3
 ### Files used
 =======
 ### Files used(changed for refactoring)
+>>>>>>> refactoring
+||||||| 6f4acc3
+### Files used(changed for refactoring)
+=======
+### Files used
 >>>>>>> refactoring
 Include the files used
 
